@@ -1,2 +1,4 @@
-main init
+main initalize
+main helloWorld
 main feature1
+
