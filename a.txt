@@ -1,5 +1,7 @@
-main init
+main initalize
+main helloWorld
 main feature1
----------
+
 dev init
 dev featreu1 
+
